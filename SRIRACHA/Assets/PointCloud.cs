@@ -16,7 +16,7 @@ public class PointCloud : MonoBehaviour {
 	void Start () {
 
 		for (int i = 0; i < 100; i++) {
-			Points(Random.Range(-10.0f, 10.0f), Random.Range(-10.0f, 10.0f), Random.Range(-10.0f, 10.0f));
+			Points(Random.Range(-10.0f, 10.0f), 0, Random.Range(-10.0f, 10.0f));
 		}
 	}
 	
