@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adriandarian/sriracha",
+  "author": "Adrian Darian",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "johnny-five": "^1.0.0",
+    "noble": "^1.9.1",
+    "nodemon": "^1.18.4",
+    "serialport": "^7.0.2"
+  }
+}

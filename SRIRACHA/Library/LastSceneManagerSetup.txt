@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BT_Library/Demos/Basic Demo/BasicDemo.unity
+  isLoaded: 1
+  isActive: 1
