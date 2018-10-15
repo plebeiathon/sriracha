@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: edcf451937ad445cfaca260d78af6ad7
+timeCreated: 1539527024
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MeshFeature1
+    100004: MeshFeature10
+    100006: MeshFeature11
+    100008: MeshFeature12
+    100010: MeshFeature13
+    100012: MeshFeature14
+    100014: MeshFeature15
+    100016: MeshFeature16
+    100018: MeshFeature17
+    100020: MeshFeature18
+    100022: MeshFeature19
+    100024: MeshFeature2
+    100026: MeshFeature20
+    100028: MeshFeature21
+    100030: MeshFeature22
+    100032: MeshFeature23
+    100034: MeshFeature24
+    100036: MeshFeature25
+    100038: MeshFeature26
+    100040: MeshFeature27
+    100042: MeshFeature28
+    100044: MeshFeature29
+    100046: MeshFeature3
+    100048: MeshFeature30
+    100050: MeshFeature31
+    100052: MeshFeature32
+    100054: MeshFeature33
+    100056: MeshFeature4
+    100058: MeshFeature5
+    100060: MeshFeature6
+    100062: MeshFeature7
+    100064: MeshFeature8
+    100066: MeshFeature9
+    400000: //RootNode
+    400002: MeshFeature1
+    400004: MeshFeature10
+    400006: MeshFeature11
+    400008: MeshFeature12
+    400010: MeshFeature13
+    400012: MeshFeature14
+    400014: MeshFeature15
+    400016: MeshFeature16
+    400018: MeshFeature17
+    400020: MeshFeature18
+    400022: MeshFeature19
+    400024: MeshFeature2
+    400026: MeshFeature20
+    400028: MeshFeature21
+    400030: MeshFeature22
+    400032: MeshFeature23
+    400034: MeshFeature24
+    400036: MeshFeature25
+    400038: MeshFeature26
+    400040: MeshFeature27
+    400042: MeshFeature28
+    400044: MeshFeature29
+    400046: MeshFeature3
+    400048: MeshFeature30
+    400050: MeshFeature31
+    400052: MeshFeature32
+    400054: MeshFeature33
+    400056: MeshFeature4
+    400058: MeshFeature5
+    400060: MeshFeature6
+    400062: MeshFeature7
+    400064: MeshFeature8
+    400066: MeshFeature9
+    2300000: MeshFeature1
+    2300002: MeshFeature10
+    2300004: MeshFeature11
+    2300006: MeshFeature12
+    2300008: MeshFeature13
+    2300010: MeshFeature14
+    2300012: MeshFeature15
+    2300014: MeshFeature16
+    2300016: MeshFeature17
+    2300018: MeshFeature18
+    2300020: MeshFeature19
+    2300022: MeshFeature2
+    2300024: MeshFeature20
+    2300026: MeshFeature21
+    2300028: MeshFeature22
+    2300030: MeshFeature23
+    2300032: MeshFeature24
+    2300034: MeshFeature25
+    2300036: MeshFeature26
+    2300038: MeshFeature27
+    2300040: MeshFeature28
+    2300042: MeshFeature29
+    2300044: MeshFeature3
+    2300046: MeshFeature30
+    2300048: MeshFeature31
+    2300050: MeshFeature32
+    2300052: MeshFeature33
+    2300054: MeshFeature4
+    2300056: MeshFeature5
+    2300058: MeshFeature6
+    2300060: MeshFeature7
+    2300062: MeshFeature8
+    2300064: MeshFeature9
+    3300000: MeshFeature1
+    3300002: MeshFeature10
+    3300004: MeshFeature11
+    3300006: MeshFeature12
+    3300008: MeshFeature13
+    3300010: MeshFeature14
+    3300012: MeshFeature15
+    3300014: MeshFeature16
+    3300016: MeshFeature17
+    3300018: MeshFeature18
+    3300020: MeshFeature19
+    3300022: MeshFeature2
+    3300024: MeshFeature20
+    3300026: MeshFeature21
+    3300028: MeshFeature22
+    3300030: MeshFeature23
+    3300032: MeshFeature24
+    3300034: MeshFeature25
+    3300036: MeshFeature26
+    3300038: MeshFeature27
+    3300040: MeshFeature28
+    3300042: MeshFeature29
+    3300044: MeshFeature3
+    3300046: MeshFeature30
+    3300048: MeshFeature31
+    3300050: MeshFeature32
+    3300052: MeshFeature33
+    3300054: MeshFeature4
+    3300056: MeshFeature5
+    3300058: MeshFeature6
+    3300060: MeshFeature7
+    3300062: MeshFeature8
+    3300064: MeshFeature9
+    4300000: MeshFeature1
+    4300002: MeshFeature10
+    4300004: MeshFeature11
+    4300006: MeshFeature12
+    4300008: MeshFeature13
+    4300010: MeshFeature14
+    4300012: MeshFeature15
+    4300014: MeshFeature16
+    4300016: MeshFeature17
+    4300018: MeshFeature18
+    4300020: MeshFeature19
+    4300022: MeshFeature2
+    4300024: MeshFeature20
+    4300026: MeshFeature21
+    4300028: MeshFeature22
+    4300030: MeshFeature23
+    4300032: MeshFeature24
+    4300034: MeshFeature25
+    4300036: MeshFeature26
+    4300038: MeshFeature27
+    4300040: MeshFeature28
+    4300042: MeshFeature29
+    4300044: MeshFeature3
+    4300046: MeshFeature30
+    4300048: MeshFeature31
+    4300050: MeshFeature32
+    4300052: MeshFeature33
+    4300054: MeshFeature4
+    4300056: MeshFeature5
+    4300058: MeshFeature6
+    4300060: MeshFeature7
+    4300062: MeshFeature8
+    4300064: MeshFeature9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

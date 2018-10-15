@@ -4,18 +4,17 @@
 <head>
   <meta charset="utf-8">
   <title>Hello World</title>
+  <style>
+    body {
+      margin: 0;
+    }
+  </style>
 </head>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.7.1/pixi.min.js"></script>
+
 
 <body>
-  <script type="text/javascript">
-    let type = "WebGL"
-    if (!PIXI.utils.isWebGLSupported()) {
-      type = "canvas"
-    }
-
-    PIXI.utils.sayHello(type)
-</script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.7.1/pixi.min.js"></script>
+  <script type="text/javascript" src="./PointCloud.js"></script>
 </body>
 
 </html>
