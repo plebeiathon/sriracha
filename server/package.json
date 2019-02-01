@@ -7,17 +7,17 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "canvas": "^1.6.13",
+    "canvas": "^2.3.1",
     "connect": "^3.6.6",
     "fs": "^0.0.1-security",
     "johnny-five": "^1.0.0",
-    "jsdom": "^12.2.0",
+    "jsdom": "^13.2.0",
     "noble": "^1.9.1",
-    "nodemon": "^1.18.4",
-    "pixi.js": "^4.8.2",
-    "serialport": "^7.0.2",
+    "nodemon": "^1.18.9",
+    "pixi.js": "^5.0.0-rc",
+    "serialport": "^7.1.4",
     "serve-static": "^1.13.2",
-    "webgl-obj-loader": "^1.1.3",
+    "webgl-obj-loader": "^2.0.3",
     "xmlhttprequest": "^1.8.0"
   },
   "scripts": {
